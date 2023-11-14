@@ -10,13 +10,20 @@
   },
   "dependencies": {
     "@heroicons/react": "^2.0.18",
+    "@vinejs/vine": "^1.6.0",
+    "axios": "^1.6.1",
+    "bcryptjs": "^2.4.3",
     "heroicons": "^2.0.18",
+    "mongodb": "^6.2.0",
+    "mongoos": "^0.0.1-security",
+    "mongoose": "^8.0.0",
     "next": "14.0.1",
     "next-auth": "^4.24.4",
     "react": "^18",
     "react-dom": "^18"
   },
   "devDependencies": {
+    "@types/react": "18.2.37",
     "autoprefixer": "^10.0.1",
     "eslint": "^8",
     "eslint-config-next": "14.0.1",

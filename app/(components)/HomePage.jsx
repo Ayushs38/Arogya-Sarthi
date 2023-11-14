@@ -17,8 +17,8 @@ const HomePage = () => {
                             <h1 className="text-4xl font-extrabold uppercase">The best way to get the care you need</h1>
                             <p className=" text-xl font-normal">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.</p>
 
-                            <button className=' mt-5 bg-green-500 p-3 text-lg rounded font-bold text-white'
-                                onClick={router.push('Patients/BookAppointmentPage')}
+                            <button className=' mt-5 bg-green-500 hover:bg-green-700 p-3 text-lg rounded font-bold text-white'
+                                // onClick={router.push('Patients/BookAppointmentPage')}
                             >
                                 Book Appointment
                             </button>
